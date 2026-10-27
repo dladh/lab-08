@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Deepali Ladhar`
-- **CCID:** `<Enter ccid>`
+- **CCID:** `dladhar`
 
 ## References and Resources
  `N/A` 
